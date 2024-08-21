@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxob201MjMycXQwcjdkMTdmNmhwbTM1bTY5NzR1M21pb241dnNhayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamPal23&label=Profile%20views&color=0e75b6&style=flat" alt="hksuryan" /> </p>
-- 👀 I’m interested in **Front-End Web Development**
+ <h3> 👀 I’m interested in Front-End Web Development</h3>
 
 - 🌱 I’m currently learning **building websites using MERN**
 
